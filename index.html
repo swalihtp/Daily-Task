@@ -5,20 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        .heading{
-            text-align: center;
-        }
-        #demo{
-            text-align: center;
-        }
-        #change-btn{
-            border: none;
-            border-radius: 2px;
-        }
-        .container{
-            display: flex;
-            justify-content: center;
-        }
+        body {
+        font-family: Arial, sans-serif;
+        background: #f4f4f4;
+        padding: 20px;
+    }
+
+    .heading {
+        text-align: center;
+        color: #333;
+    }
+
+    #demo {
+        text-align: center;
+        font-size: 1.2rem;
+        margin: 20px 0;
+    }
+
+    #change-btn {
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        background: #007BFF;
+        color: white;
+        cursor: pointer;
+    }
+
+    #change-btn:hover {
+        background: #0056b3;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+    }
+
     </style>
 
 </head>
@@ -28,7 +49,6 @@
     <div class="container">
         <button id="change-btn">Change the Quote</button>
     </div>
-
     <script>
         const quotes = [
             "The best way to get started is to quit talking and begin doing. – Walt Disney",
@@ -45,7 +65,7 @@
         document.getElementById("demo").innerHTML=quotes[0];
         document.getElementById("change-btn").addEventListener("click",displayQuote);
         function displayQuote(){
-            document.getElementById("demo").innerHTML=quotes[Math.floor(Math.random()*10)];
+            document.getElementById("demo").innerHTML=quotes[Math.floor(Math.random()*quotes.length)];
         }
 
     </script>
