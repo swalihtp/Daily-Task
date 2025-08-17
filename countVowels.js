@@ -11,3 +11,10 @@ function countVowels(str){
     }return count;
 }
 console.log(countVowels("Hello World"));
+
+let ar=["Hello","work","suii","sigma"];
+let x=[];
+if(ar[0].includes("e")){
+    x.push(0)
+};
+console.log(x);
