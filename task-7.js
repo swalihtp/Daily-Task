@@ -11,4 +11,4 @@ var minOperations = function(boxes) {
         }answer.push(count)
     }return answer
 };
-console.log(minOperations("110"));
+console.log(minOperations("110 "));
