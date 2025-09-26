@@ -10,4 +10,4 @@ var maximum69Number  = function(num) {
     }
     return Math.max(...ans)
 };
-console.log(maximum69Number(9669))
+console.log(maximum69Number(9669) ;)
