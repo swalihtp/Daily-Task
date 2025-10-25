@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0345-reverse-vowels-of-a-string) |
+| [1894-merge-strings-alternately](https://github.com/swalihtp/Daily-Task/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/swalihtp/Daily-Task/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/swalihtp/Daily-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
@@ -67,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0345-reverse-vowels-of-a-string) |
+| [1894-merge-strings-alternately](https://github.com/swalihtp/Daily-Task/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
