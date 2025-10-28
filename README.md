@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/swalihtp/Daily-Task/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/swalihtp/Daily-Task/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3778-transform-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/3778-transform-array-by-parity) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/swalihtp/Daily-Task/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Sorting
 |  |
 | ------- |
