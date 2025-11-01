@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swalihtp/Daily-Task/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/swalihtp/Daily-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/swalihtp/Daily-Task/tree/master/0066-plus-one) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/swalihtp/Daily-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0345-reverse-vowels-of-a-string) |
