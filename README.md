@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/swalihtp/Daily-Task/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swalihtp/Daily-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/swalihtp/Daily-Task/tree/master/0066-plus-one) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/swalihtp/Daily-Task/tree/master/1944-truncate-sentence) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/swalihtp/Daily-Task/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
