@@ -11,8 +11,5 @@ var intersect = function(nums1, nums2) {
             nums2.splice(nums2.indexOf(nums1[i]),1)
         }
     }
-    // let unq=new Set(ans)
-    // unq=Array.from(unq)
-    // return unq
     return ans
 };
