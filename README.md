@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/swalihtp/Daily-Task/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/swalihtp/Daily-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/swalihtp/Daily-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3778-transform-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/swalihtp/Daily-Task/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/swalihtp/Daily-Task/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/swalihtp/Daily-Task/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/swalihtp/Daily-Task/tree/master/0066-plus-one) |
 | [2288-count-operations-to-obtain-zero](https://github.com/swalihtp/Daily-Task/tree/master/2288-count-operations-to-obtain-zero) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/swalihtp/Daily-Task/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/swalihtp/Daily-Task/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
