@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swalihtp/Daily-Task/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
