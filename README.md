@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swalihtp/Daily-Task/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/swalihtp/Daily-Task/tree/master/1944-truncate-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swalihtp/Daily-Task/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swalihtp/Daily-Task/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swalihtp/Daily-Task/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
