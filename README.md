@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swalihtp/Daily-Task/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/swalihtp/Daily-Task/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
