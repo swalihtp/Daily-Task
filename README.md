@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/swalihtp/Daily-Task/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/swalihtp/Daily-Task/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/swalihtp/Daily-Task/tree/master/0620-not-boring-movies) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/swalihtp/Daily-Task/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Divide and Conquer
 |  |
 | ------- |
