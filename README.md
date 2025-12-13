@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/swalihtp/Daily-Task/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/swalihtp/Daily-Task/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/swalihtp/Daily-Task/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/swalihtp/Daily-Task/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/3778-transform-array-by-parity) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/swalihtp/Daily-Task/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/swalihtp/Daily-Task/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/swalihtp/Daily-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3731-find-missing-elements](https://github.com/swalihtp/Daily-Task/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/swalihtp/Daily-Task/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/swalihtp/Daily-Task/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/swalihtp/Daily-Task/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
