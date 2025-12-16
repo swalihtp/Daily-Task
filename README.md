@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/swalihtp/Daily-Task/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/swalihtp/Daily-Task/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/swalihtp/Daily-Task/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
