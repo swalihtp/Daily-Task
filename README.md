@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/swalihtp/Daily-Task/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/swalihtp/Daily-Task/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/swalihtp/Daily-Task/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/swalihtp/Daily-Task/tree/master/0509-fibonacci-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/swalihtp/Daily-Task/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swalihtp/Daily-Task/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/swalihtp/Daily-Task/tree/master/2288-count-operations-to-obtain-zero) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/swalihtp/Daily-Task/tree/master/0022-generate-parentheses) |
+| [0509-fibonacci-number](https://github.com/swalihtp/Daily-Task/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/swalihtp/Daily-Task/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/swalihtp/Daily-Task/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/swalihtp/Daily-Task/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
