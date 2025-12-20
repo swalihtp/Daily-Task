@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/swalihtp/Daily-Task/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/swalihtp/Daily-Task/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/swalihtp/Daily-Task/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3701-compute-alternating-sum](https://github.com/swalihtp/Daily-Task/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/swalihtp/Daily-Task/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/3778-transform-array-by-parity) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/swalihtp/Daily-Task/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/swalihtp/Daily-Task/tree/master/2288-count-operations-to-obtain-zero) |
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
+| [3701-compute-alternating-sum](https://github.com/swalihtp/Daily-Task/tree/master/3701-compute-alternating-sum) |
 ## Matrix
 |  |
 | ------- |
