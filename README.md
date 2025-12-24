@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/2965-find-missing-and-repeated-values) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/swalihtp/Daily-Task/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/swalihtp/Daily-Task/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/swalihtp/Daily-Task/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
