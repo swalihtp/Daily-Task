@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/swalihtp/Daily-Task/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/swalihtp/Daily-Task/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/swalihtp/Daily-Task/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/swalihtp/Daily-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/swalihtp/Daily-Task/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/swalihtp/Daily-Task/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/swalihtp/Daily-Task/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/swalihtp/Daily-Task/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/swalihtp/Daily-Task/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/swalihtp/Daily-Task/tree/master/3516-find-closest-person) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/swalihtp/Daily-Task/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/swalihtp/Daily-Task/tree/master/2288-count-operations-to-obtain-zero) |
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/swalihtp/Daily-Task/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/swalihtp/Daily-Task/tree/master/3701-compute-alternating-sum) |
 ## Matrix
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/swalihtp/Daily-Task/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
 | ------- |
