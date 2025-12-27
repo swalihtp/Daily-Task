@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/swalihtp/Daily-Task/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
+| [0804-unique-morse-code-words](https://github.com/swalihtp/Daily-Task/tree/master/0804-unique-morse-code-words) |
 | [1051-height-checker](https://github.com/swalihtp/Daily-Task/tree/master/1051-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swalihtp/Daily-Task/tree/master/0496-next-greater-element-i) |
+| [0804-unique-morse-code-words](https://github.com/swalihtp/Daily-Task/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/swalihtp/Daily-Task/tree/master/0412-fizz-buzz) |
+| [0804-unique-morse-code-words](https://github.com/swalihtp/Daily-Task/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/swalihtp/Daily-Task/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
