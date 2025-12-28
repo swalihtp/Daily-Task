@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/swalihtp/Daily-Task/tree/master/2574-left-and-right-sum-differences) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/swalihtp/Daily-Task/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/swalihtp/Daily-Task/tree/master/2974-minimum-number-game) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/swalihtp/Daily-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/swalihtp/Daily-Task/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
 | [3340-check-balanced-string](https://github.com/swalihtp/Daily-Task/tree/master/3340-check-balanced-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/swalihtp/Daily-Task/tree/master/3760-maximum-substrings-with-distinct-start) |
