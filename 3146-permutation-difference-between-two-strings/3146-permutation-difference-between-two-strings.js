@@ -6,8 +6,7 @@
 var findPermutationDifference = function(s, t) {
     let count=0
     for(let i=0;i<s.length;i++){
-        const tIndex=t.indexOf(s[i])
-        count+=Math.abs(i-tIndex)
+        count+=Math.abs(i-t.indexOf(s[i]))
     }
     return count
 };
