@@ -5,7 +5,7 @@
 var interpret = function(command) {
     let str=""
     for(let i=0;i<command.length;i++){
-        if(command[i].toLowerCase()=='g'){
+        if(command[i]=='G'){
             str+=command[i]
         }else if(command[i]==="(" && command[i+1]===")"){
             str+="o"
