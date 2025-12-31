@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/swalihtp/Daily-Task/tree/master/2574-left-and-right-sum-differences) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2733-neither-minimum-nor-maximum](https://github.com/swalihtp/Daily-Task/tree/master/2733-neither-minimum-nor-maximum) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/swalihtp/Daily-Task/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/2965-find-missing-and-repeated-values) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/swalihtp/Daily-Task/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swalihtp/Daily-Task/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2733-neither-minimum-nor-maximum](https://github.com/swalihtp/Daily-Task/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/swalihtp/Daily-Task/tree/master/2974-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/swalihtp/Daily-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/swalihtp/Daily-Task/tree/master/3731-find-missing-elements) |
