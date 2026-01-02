@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/swalihtp/Daily-Task/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/swalihtp/Daily-Task/tree/master/2733-neither-minimum-nor-maximum) |
+| [2785-sort-vowels-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/swalihtp/Daily-Task/tree/master/2974-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/swalihtp/Daily-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/swalihtp/Daily-Task/tree/master/3731-find-missing-elements) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/swalihtp/Daily-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
+| [2785-sort-vowels-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/swalihtp/Daily-Task/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
 | [3146-permutation-difference-between-two-strings](https://github.com/swalihtp/Daily-Task/tree/master/3146-permutation-difference-between-two-strings) |
