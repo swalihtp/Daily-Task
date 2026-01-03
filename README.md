@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/swalihtp/Daily-Task/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/swalihtp/Daily-Task/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/swalihtp/Daily-Task/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/swalihtp/Daily-Task/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/swalihtp/Daily-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/swalihtp/Daily-Task/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/swalihtp/Daily-Task/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/swalihtp/Daily-Task/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/swalihtp/Daily-Task/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/swalihtp/Daily-Task/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/swalihtp/Daily-Task/tree/master/3516-find-closest-person) |
