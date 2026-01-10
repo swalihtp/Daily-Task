@@ -5,6 +5,5 @@
  */
 var reversePrefix = function(s, k) {
     s=s.split("")
-    const x=s.slice(0,k).reverse()
-    return x.concat(s.slice(k)).join('')
+    return s.slice(0,k).reverse().concat(s.slice(k)).join('')
 };
