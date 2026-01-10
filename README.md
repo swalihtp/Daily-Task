@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/swalihtp/Daily-Task/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
+| [3019-number-of-changing-keys](https://github.com/swalihtp/Daily-Task/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/swalihtp/Daily-Task/tree/master/3146-permutation-difference-between-two-strings) |
 | [3340-check-balanced-string](https://github.com/swalihtp/Daily-Task/tree/master/3340-check-balanced-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/swalihtp/Daily-Task/tree/master/3760-maximum-substrings-with-distinct-start) |
