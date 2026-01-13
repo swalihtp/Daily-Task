@@ -10,8 +10,7 @@ var sumZero = function(n) {
             ans.push(-value)
         }else{
             ans.push(i)
-        }
-        
+        } 
     }
     return ans
 };
