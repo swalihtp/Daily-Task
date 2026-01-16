@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swalihtp/Daily-Task/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swalihtp/Daily-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/swalihtp/Daily-Task/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swalihtp/Daily-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/swalihtp/Daily-Task/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0151-reverse-words-in-a-string) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/swalihtp/Daily-Task/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swalihtp/Daily-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
