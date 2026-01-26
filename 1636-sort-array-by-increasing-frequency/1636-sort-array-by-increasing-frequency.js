@@ -14,9 +14,9 @@ var frequencySort = function(nums) {
     }
     const fba = Object.entries(obj).sort(([keyA, valueA], [keyB, valueB]) => {
         if (valueA === valueB) {
-            return keyB - keyA; // descending by number
+            return keyB - keyA;
         }
-        return valueA - valueB; // ascending by frequency
+        return valueA - valueB;
     });
 
     for(let i=0 ; i<fba.length ; i++){
