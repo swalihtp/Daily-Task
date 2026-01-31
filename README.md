@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/swalihtp/Daily-Task/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/swalihtp/Daily-Task/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
+| [1389-create-target-array-in-the-given-order](https://github.com/swalihtp/Daily-Task/tree/master/1389-create-target-array-in-the-given-order) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/swalihtp/Daily-Task/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swalihtp/Daily-Task/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/swalihtp/Daily-Task/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/swalihtp/Daily-Task/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/swalihtp/Daily-Task/tree/master/1688-count-of-matches-in-tournament) |
 | [2288-count-operations-to-obtain-zero](https://github.com/swalihtp/Daily-Task/tree/master/2288-count-operations-to-obtain-zero) |
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
