@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swalihtp/Daily-Task/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/swalihtp/Daily-Task/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/swalihtp/Daily-Task/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/swalihtp/Daily-Task/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/swalihtp/Daily-Task/tree/master/1944-truncate-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/swalihtp/Daily-Task/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/swalihtp/Daily-Task/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/swalihtp/Daily-Task/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/swalihtp/Daily-Task/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/swalihtp/Daily-Task/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1678-goal-parser-interpretation](https://github.com/swalihtp/Daily-Task/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/swalihtp/Daily-Task/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/swalihtp/Daily-Task/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/swalihtp/Daily-Task/tree/master/1944-truncate-sentence) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/swalihtp/Daily-Task/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/swalihtp/Daily-Task/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/swalihtp/Daily-Task/tree/master/0389-find-the-difference) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/swalihtp/Daily-Task/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
 | ------- |
