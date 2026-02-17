@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/swalihtp/Daily-Task/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/swalihtp/Daily-Task/tree/master/3019-number-of-changing-keys) |
+| [3110-score-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/swalihtp/Daily-Task/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/swalihtp/Daily-Task/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/swalihtp/Daily-Task/tree/master/3340-check-balanced-string) |
