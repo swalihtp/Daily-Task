@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/swalihtp/Daily-Task/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/swalihtp/Daily-Task/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/swalihtp/Daily-Task/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/swalihtp/Daily-Task/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/swalihtp/Daily-Task/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/swalihtp/Daily-Task/tree/master/0415-add-strings) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/swalihtp/Daily-Task/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/swalihtp/Daily-Task/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/swalihtp/Daily-Task/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/swalihtp/Daily-Task/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/swalihtp/Daily-Task/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/swalihtp/Daily-Task/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
