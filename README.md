@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/swalihtp/Daily-Task/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/swalihtp/Daily-Task/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/swalihtp/Daily-Task/tree/master/0389-find-the-difference) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/swalihtp/Daily-Task/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/swalihtp/Daily-Task/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/swalihtp/Daily-Task/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/swalihtp/Daily-Task/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/swalihtp/Daily-Task/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/swalihtp/Daily-Task/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
