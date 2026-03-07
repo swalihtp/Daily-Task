@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/swalihtp/Daily-Task/tree/master/2574-left-and-right-sum-differences) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/swalihtp/Daily-Task/tree/master/2733-neither-minimum-nor-maximum) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/swalihtp/Daily-Task/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/swalihtp/Daily-Task/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/swalihtp/Daily-Task/tree/master/3146-permutation-difference-between-two-strings) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/swalihtp/Daily-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/swalihtp/Daily-Task/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/swalihtp/Daily-Task/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/swalihtp/Daily-Task/tree/master/1688-count-of-matches-in-tournament) |
 | [2288-count-operations-to-obtain-zero](https://github.com/swalihtp/Daily-Task/tree/master/2288-count-operations-to-obtain-zero) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/swalihtp/Daily-Task/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/swalihtp/Daily-Task/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
