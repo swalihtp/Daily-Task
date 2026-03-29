@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/swalihtp/Daily-Task/tree/master/0942-di-string-match) |
 | [1051-height-checker](https://github.com/swalihtp/Daily-Task/tree/master/1051-height-checker) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/swalihtp/Daily-Task/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/swalihtp/Daily-Task/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/swalihtp/Daily-Task/tree/master/1389-create-target-array-in-the-given-order) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/swalihtp/Daily-Task/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/swalihtp/Daily-Task/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/swalihtp/Daily-Task/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
 | [0942-di-string-match](https://github.com/swalihtp/Daily-Task/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/swalihtp/Daily-Task/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/swalihtp/Daily-Task/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/swalihtp/Daily-Task/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swalihtp/Daily-Task/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/swalihtp/Daily-Task/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
