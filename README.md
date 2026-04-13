@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/swalihtp/Daily-Task/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/swalihtp/Daily-Task/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swalihtp/Daily-Task/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/swalihtp/Daily-Task/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/swalihtp/Daily-Task/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/swalihtp/Daily-Task/tree/master/2288-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/swalihtp/Daily-Task/tree/master/2396-strictly-palindromic-number) |
