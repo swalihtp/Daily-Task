@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/swalihtp/Daily-Task/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/swalihtp/Daily-Task/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/swalihtp/Daily-Task/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/swalihtp/Daily-Task/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/3227-find-missing-and-repeated-values) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/swalihtp/Daily-Task/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/swalihtp/Daily-Task/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/swalihtp/Daily-Task/tree/master/3146-permutation-difference-between-two-strings) |
 | [3227-vowels-game-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/3227-vowels-game-in-a-string) |
 | [3280-convert-date-to-binary](https://github.com/swalihtp/Daily-Task/tree/master/3280-convert-date-to-binary) |
