@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/swalihtp/Daily-Task/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2525-categorize-box-according-to-criteria](https://github.com/swalihtp/Daily-Task/tree/master/2525-categorize-box-according-to-criteria) |
 | [2578-split-with-minimum-sum](https://github.com/swalihtp/Daily-Task/tree/master/2578-split-with-minimum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/swalihtp/Daily-Task/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/swalihtp/Daily-Task/tree/master/2769-find-the-maximum-achievable-number) |
