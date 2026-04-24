@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/swalihtp/Daily-Task/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/swalihtp/Daily-Task/tree/master/1389-create-target-array-in-the-given-order) |
+| [1436-destination-city](https://github.com/swalihtp/Daily-Task/tree/master/1436-destination-city) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/swalihtp/Daily-Task/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/swalihtp/Daily-Task/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/swalihtp/Daily-Task/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/swalihtp/Daily-Task/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/swalihtp/Daily-Task/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/swalihtp/Daily-Task/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/swalihtp/Daily-Task/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/swalihtp/Daily-Task/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1436-destination-city](https://github.com/swalihtp/Daily-Task/tree/master/1436-destination-city) |
 | [1678-goal-parser-interpretation](https://github.com/swalihtp/Daily-Task/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/swalihtp/Daily-Task/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/swalihtp/Daily-Task/tree/master/1704-determine-if-string-halves-are-alike) |
