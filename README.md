@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swalihtp/Daily-Task/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/swalihtp/Daily-Task/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/swalihtp/Daily-Task/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/swalihtp/Daily-Task/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/swalihtp/Daily-Task/tree/master/0877-stone-game) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/swalihtp/Daily-Task/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/swalihtp/Daily-Task/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swalihtp/Daily-Task/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/swalihtp/Daily-Task/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
