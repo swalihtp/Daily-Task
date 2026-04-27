@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/swalihtp/Daily-Task/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/swalihtp/Daily-Task/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/swalihtp/Daily-Task/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/swalihtp/Daily-Task/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swalihtp/Daily-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swalihtp/Daily-Task/tree/master/0628-maximum-product-of-three-numbers) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swalihtp/Daily-Task/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/swalihtp/Daily-Task/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swalihtp/Daily-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/swalihtp/Daily-Task/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0884-uncommon-words-from-two-sentences) |
