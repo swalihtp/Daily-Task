@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/swalihtp/Daily-Task/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/swalihtp/Daily-Task/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/swalihtp/Daily-Task/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/swalihtp/Daily-Task/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/swalihtp/Daily-Task/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swalihtp/Daily-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/swalihtp/Daily-Task/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/swalihtp/Daily-Task/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/swalihtp/Daily-Task/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/swalihtp/Daily-Task/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swalihtp/Daily-Task/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/0905-sort-array-by-parity) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/swalihtp/Daily-Task/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/swalihtp/Daily-Task/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/swalihtp/Daily-Task/tree/master/2974-minimum-number-game) |
