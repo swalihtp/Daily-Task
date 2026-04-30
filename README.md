@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/swalihtp/Daily-Task/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2833-furthest-point-from-origin](https://github.com/swalihtp/Daily-Task/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/swalihtp/Daily-Task/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/swalihtp/Daily-Task/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3778-transform-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/3778-transform-array-by-parity) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/swalihtp/Daily-Task/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2833-furthest-point-from-origin](https://github.com/swalihtp/Daily-Task/tree/master/2833-furthest-point-from-origin) |
 | [2886-faulty-keyboard](https://github.com/swalihtp/Daily-Task/tree/master/2886-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/swalihtp/Daily-Task/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/3110-score-of-a-string) |
