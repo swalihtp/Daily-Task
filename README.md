@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/swalihtp/Daily-Task/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/swalihtp/Daily-Task/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/swalihtp/Daily-Task/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/swalihtp/Daily-Task/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/swalihtp/Daily-Task/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/swalihtp/Daily-Task/tree/master/0347-top-k-frequent-elements) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/swalihtp/Daily-Task/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/swalihtp/Daily-Task/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/swalihtp/Daily-Task/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/swalihtp/Daily-Task/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/swalihtp/Daily-Task/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/0349-intersection-of-two-arrays) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/swalihtp/Daily-Task/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/swalihtp/Daily-Task/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/swalihtp/Daily-Task/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/swalihtp/Daily-Task/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/swalihtp/Daily-Task/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/swalihtp/Daily-Task/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/swalihtp/Daily-Task/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/swalihtp/Daily-Task/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/swalihtp/Daily-Task/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/0349-intersection-of-two-arrays) |
