@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/swalihtp/Daily-Task/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/swalihtp/Daily-Task/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/swalihtp/Daily-Task/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/swalihtp/Daily-Task/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/swalihtp/Daily-Task/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/swalihtp/Daily-Task/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/swalihtp/Daily-Task/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/swalihtp/Daily-Task/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/swalihtp/Daily-Task/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
