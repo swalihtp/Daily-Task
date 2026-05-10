@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/swalihtp/Daily-Task/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/swalihtp/Daily-Task/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/swalihtp/Daily-Task/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/swalihtp/Daily-Task/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/swalihtp/Daily-Task/tree/master/0977-squares-of-a-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/swalihtp/Daily-Task/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swalihtp/Daily-Task/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/swalihtp/Daily-Task/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/swalihtp/Daily-Task/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/swalihtp/Daily-Task/tree/master/1122-relative-sort-array) |
@@ -544,10 +546,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/swalihtp/Daily-Task/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/swalihtp/Daily-Task/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/swalihtp/Daily-Task/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/swalihtp/Daily-Task/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/swalihtp/Daily-Task/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/swalihtp/Daily-Task/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/swalihtp/Daily-Task/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/swalihtp/Daily-Task/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/swalihtp/Daily-Task/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/swalihtp/Daily-Task/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/swalihtp/Daily-Task/tree/master/2974-minimum-number-game) |
@@ -623,4 +628,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/swalihtp/Daily-Task/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/swalihtp/Daily-Task/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
