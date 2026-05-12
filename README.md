@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/swalihtp/Daily-Task/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/swalihtp/Daily-Task/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/swalihtp/Daily-Task/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/swalihtp/Daily-Task/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/swalihtp/Daily-Task/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/swalihtp/Daily-Task/tree/master/0877-stone-game) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/swalihtp/Daily-Task/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swalihtp/Daily-Task/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/swalihtp/Daily-Task/tree/master/0692-top-k-frequent-words) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/swalihtp/Daily-Task/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/swalihtp/Daily-Task/tree/master/0977-squares-of-a-sorted-array) |
