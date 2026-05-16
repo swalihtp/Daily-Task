@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/swalihtp/Daily-Task/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/swalihtp/Daily-Task/tree/master/2284-sender-with-largest-word-count) |
+| [2288-apply-discount-to-prices](https://github.com/swalihtp/Daily-Task/tree/master/2288-apply-discount-to-prices) |
 | [2351-first-letter-to-appear-twice](https://github.com/swalihtp/Daily-Task/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2390-removing-stars-from-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/swalihtp/Daily-Task/tree/master/2506-count-pairs-of-similar-strings) |
