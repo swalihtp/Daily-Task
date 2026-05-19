@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/swalihtp/Daily-Task/tree/master/2506-count-pairs-of-similar-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/swalihtp/Daily-Task/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/swalihtp/Daily-Task/tree/master/2574-left-and-right-sum-differences) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/swalihtp/Daily-Task/tree/master/2506-count-pairs-of-similar-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/swalihtp/Daily-Task/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/swalihtp/Daily-Task/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/swalihtp/Daily-Task/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/swalihtp/Daily-Task/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/swalihtp/Daily-Task/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/swalihtp/Daily-Task/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/swalihtp/Daily-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/swalihtp/Daily-Task/tree/master/3794-reverse-string-prefix) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/swalihtp/Daily-Task/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/swalihtp/Daily-Task/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swalihtp/Daily-Task/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/swalihtp/Daily-Task/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/swalihtp/Daily-Task/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
