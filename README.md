@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/swalihtp/Daily-Task/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/swalihtp/Daily-Task/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/swalihtp/Daily-Task/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/swalihtp/Daily-Task/tree/master/1773-count-items-matching-a-rule) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swalihtp/Daily-Task/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
