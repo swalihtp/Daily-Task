@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/3778-transform-array-by-parity) |
 | [3838-weighted-word-mapping](https://github.com/swalihtp/Daily-Task/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swalihtp/Daily-Task/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/swalihtp/Daily-Task/tree/master/3925-concatenate-array-with-reverse) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/swalihtp/Daily-Task/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Sorting
 |  |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/swalihtp/Daily-Task/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/swalihtp/Daily-Task/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/swalihtp/Daily-Task/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/swalihtp/Daily-Task/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
 | ------- |
