@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/swalihtp/Daily-Task/tree/master/1773-count-items-matching-a-rule) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swalihtp/Daily-Task/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/swalihtp/Daily-Task/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/swalihtp/Daily-Task/tree/master/1944-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swalihtp/Daily-Task/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-two-out-of-three](https://github.com/swalihtp/Daily-Task/tree/master/2032-two-out-of-three) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/swalihtp/Daily-Task/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/swalihtp/Daily-Task/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/swalihtp/Daily-Task/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/swalihtp/Daily-Task/tree/master/1929-concatenation-of-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/swalihtp/Daily-Task/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/swalihtp/Daily-Task/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/swalihtp/Daily-Task/tree/master/2154-keep-multiplying-found-values-by-two) |
