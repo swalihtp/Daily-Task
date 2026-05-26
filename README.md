@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/swalihtp/Daily-Task/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/swalihtp/Daily-Task/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swalihtp/Daily-Task/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/swalihtp/Daily-Task/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/swalihtp/Daily-Task/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/swalihtp/Daily-Task/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/swalihtp/Daily-Task/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3894-traffic-signal-color](https://github.com/swalihtp/Daily-Task/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/swalihtp/Daily-Task/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/swalihtp/Daily-Task/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/swalihtp/Daily-Task/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/swalihtp/Daily-Task/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/swalihtp/Daily-Task/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
