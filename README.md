@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swalihtp/Daily-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swalihtp/Daily-Task/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/swalihtp/Daily-Task/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/swalihtp/Daily-Task/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/swalihtp/Daily-Task/tree/master/0704-binary-search) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/swalihtp/Daily-Task/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/swalihtp/Daily-Task/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swalihtp/Daily-Task/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/swalihtp/Daily-Task/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/swalihtp/Daily-Task/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/swalihtp/Daily-Task/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/0905-sort-array-by-parity) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/swalihtp/Daily-Task/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/swalihtp/Daily-Task/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swalihtp/Daily-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/swalihtp/Daily-Task/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/swalihtp/Daily-Task/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/swalihtp/Daily-Task/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/swalihtp/Daily-Task/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/swalihtp/Daily-Task/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/swalihtp/Daily-Task/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/swalihtp/Daily-Task/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/swalihtp/Daily-Task/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/swalihtp/Daily-Task/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/swalihtp/Daily-Task/tree/master/2032-two-out-of-three) |
