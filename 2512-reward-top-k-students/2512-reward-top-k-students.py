@@ -27,8 +27,5 @@ class Solution:
                         students[student_id[i]] = 0
 
         s = list(sorted(students.items(), key=lambda item:(-item[1],item[0])))[:k]
-        ans=[]
-
-        for i in s:
-            ans.append(i[0])
+        ans= [student_id for student_id, score in s]
         return ans
