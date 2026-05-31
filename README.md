@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/swalihtp/Daily-Task/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/swalihtp/Daily-Task/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/swalihtp/Daily-Task/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/swalihtp/Daily-Task/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/swalihtp/Daily-Task/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/swalihtp/Daily-Task/tree/master/1122-relative-sort-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/swalihtp/Daily-Task/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/swalihtp/Daily-Task/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/swalihtp/Daily-Task/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/swalihtp/Daily-Task/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/swalihtp/Daily-Task/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/swalihtp/Daily-Task/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
 | [0942-di-string-match](https://github.com/swalihtp/Daily-Task/tree/master/0942-di-string-match) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/swalihtp/Daily-Task/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/swalihtp/Daily-Task/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/swalihtp/Daily-Task/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/swalihtp/Daily-Task/tree/master/1561-maximum-number-of-coins-you-can-get) |
