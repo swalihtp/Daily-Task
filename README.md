@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/swalihtp/Daily-Task/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/swalihtp/Daily-Task/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/swalihtp/Daily-Task/tree/master/0804-unique-morse-code-words) |
+| [0824-goat-latin](https://github.com/swalihtp/Daily-Task/tree/master/0824-goat-latin) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/swalihtp/Daily-Task/tree/master/0917-reverse-only-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swalihtp/Daily-Task/tree/master/0920-uncommon-words-from-two-sentences) |
