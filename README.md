@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/swalihtp/Daily-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/swalihtp/Daily-Task/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2284-sender-with-largest-word-count](https://github.com/swalihtp/Daily-Task/tree/master/2284-sender-with-largest-word-count) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/swalihtp/Daily-Task/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/swalihtp/Daily-Task/tree/master/2404-most-frequent-even-element) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/swalihtp/Daily-Task/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/swalihtp/Daily-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/swalihtp/Daily-Task/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/swalihtp/Daily-Task/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/swalihtp/Daily-Task/tree/master/2284-sender-with-largest-word-count) |
 | [2288-apply-discount-to-prices](https://github.com/swalihtp/Daily-Task/tree/master/2288-apply-discount-to-prices) |
