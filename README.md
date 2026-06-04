@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/swalihtp/Daily-Task/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/swalihtp/Daily-Task/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2951-find-the-peaks](https://github.com/swalihtp/Daily-Task/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/swalihtp/Daily-Task/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/swalihtp/Daily-Task/tree/master/2974-minimum-number-game) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/swalihtp/Daily-Task/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2843-count-symmetric-integers](https://github.com/swalihtp/Daily-Task/tree/master/2843-count-symmetric-integers) |
+| [2951-find-the-peaks](https://github.com/swalihtp/Daily-Task/tree/master/2951-find-the-peaks) |
 ## Bucket Sort
 |  |
 | ------- |
