@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swalihtp/Daily-Task/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/swalihtp/Daily-Task/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/swalihtp/Daily-Task/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/swalihtp/Daily-Task/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/swalihtp/Daily-Task/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/swalihtp/Daily-Task/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/swalihtp/Daily-Task/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/swalihtp/Daily-Task/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swalihtp/Daily-Task/tree/master/1877-minimize-maximum-pair-sum-in-array) |
