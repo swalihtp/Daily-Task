@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/swalihtp/Daily-Task/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swalihtp/Daily-Task/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swalihtp/Daily-Task/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/swalihtp/Daily-Task/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/swalihtp/Daily-Task/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/swalihtp/Daily-Task/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swalihtp/Daily-Task/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/swalihtp/Daily-Task/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/swalihtp/Daily-Task/tree/master/2129-capitalize-the-title) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/swalihtp/Daily-Task/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/swalihtp/Daily-Task/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/swalihtp/Daily-Task/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/swalihtp/Daily-Task/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2109-adding-spaces-to-a-string) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/swalihtp/Daily-Task/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/swalihtp/Daily-Task/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/swalihtp/Daily-Task/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/swalihtp/Daily-Task/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/swalihtp/Daily-Task/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swalihtp/Daily-Task/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/swalihtp/Daily-Task/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/swalihtp/Daily-Task/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/swalihtp/Daily-Task/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
