@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/swalihtp/Daily-Task/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/swalihtp/Daily-Task/tree/master/1122-relative-sort-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/swalihtp/Daily-Task/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/swalihtp/Daily-Task/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/swalihtp/Daily-Task/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/swalihtp/Daily-Task/tree/master/1389-create-target-array-in-the-given-order) |
