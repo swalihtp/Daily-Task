@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/swalihtp/Daily-Task/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/swalihtp/Daily-Task/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/swalihtp/Daily-Task/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swalihtp/Daily-Task/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/swalihtp/Daily-Task/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/swalihtp/Daily-Task/tree/master/1436-destination-city) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/swalihtp/Daily-Task/tree/master/0832-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swalihtp/Daily-Task/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/swalihtp/Daily-Task/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/swalihtp/Daily-Task/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/swalihtp/Daily-Task/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/swalihtp/Daily-Task/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/swalihtp/Daily-Task/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swalihtp/Daily-Task/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/swalihtp/Daily-Task/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swalihtp/Daily-Task/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/swalihtp/Daily-Task/tree/master/2540-minimum-common-value) |
