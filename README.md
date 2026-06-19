@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/swalihtp/Daily-Task/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/swalihtp/Daily-Task/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/swalihtp/Daily-Task/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/swalihtp/Daily-Task/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/swalihtp/Daily-Task/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/swalihtp/Daily-Task/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/swalihtp/Daily-Task/tree/master/0509-fibonacci-number) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/swalihtp/Daily-Task/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/swalihtp/Daily-Task/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/swalihtp/Daily-Task/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/swalihtp/Daily-Task/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/swalihtp/Daily-Task/tree/master/0744-find-smallest-letter-greater-than-target) |
