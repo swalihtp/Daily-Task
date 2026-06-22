@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/swalihtp/Daily-Task/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/swalihtp/Daily-Task/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/swalihtp/Daily-Task/tree/master/0485-max-consecutive-ones) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/swalihtp/Daily-Task/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/swalihtp/Daily-Task/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/swalihtp/Daily-Task/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/swalihtp/Daily-Task/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/swalihtp/Daily-Task/tree/master/0506-relative-ranks) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/swalihtp/Daily-Task/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/swalihtp/Daily-Task/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/swalihtp/Daily-Task/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/swalihtp/Daily-Task/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/swalihtp/Daily-Task/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/swalihtp/Daily-Task/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/swalihtp/Daily-Task/tree/master/0744-find-smallest-letter-greater-than-target) |
