@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/swalihtp/Daily-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/swalihtp/Daily-Task/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/swalihtp/Daily-Task/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2284-sender-with-largest-word-count](https://github.com/swalihtp/Daily-Task/tree/master/2284-sender-with-largest-word-count) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/swalihtp/Daily-Task/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/swalihtp/Daily-Task/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/swalihtp/Daily-Task/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/swalihtp/Daily-Task/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/swalihtp/Daily-Task/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/swalihtp/Daily-Task/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/swalihtp/Daily-Task/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/swalihtp/Daily-Task/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/swalihtp/Daily-Task/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2206-divide-array-into-equal-pairs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/swalihtp/Daily-Task/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/swalihtp/Daily-Task/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/swalihtp/Daily-Task/tree/master/2284-sender-with-largest-word-count) |
 | [2351-first-letter-to-appear-twice](https://github.com/swalihtp/Daily-Task/tree/master/2351-first-letter-to-appear-twice) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/swalihtp/Daily-Task/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/swalihtp/Daily-Task/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/swalihtp/Daily-Task/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/swalihtp/Daily-Task/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-rings-and-rods](https://github.com/swalihtp/Daily-Task/tree/master/2226-rings-and-rods) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/swalihtp/Daily-Task/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/swalihtp/Daily-Task/tree/master/2284-sender-with-largest-word-count) |
