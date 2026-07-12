@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/swalihtp/Daily-Task/tree/master/2284-sender-with-largest-word-count) |
 | [2288-apply-discount-to-prices](https://github.com/swalihtp/Daily-Task/tree/master/2288-apply-discount-to-prices) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/swalihtp/Daily-Task/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2315-count-asterisks](https://github.com/swalihtp/Daily-Task/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/swalihtp/Daily-Task/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/swalihtp/Daily-Task/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2390-removing-stars-from-a-string) |
