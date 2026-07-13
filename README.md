@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/swalihtp/Daily-Task/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/swalihtp/Daily-Task/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/swalihtp/Daily-Task/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/swalihtp/Daily-Task/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/swalihtp/Daily-Task/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swalihtp/Daily-Task/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/swalihtp/Daily-Task/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/swalihtp/Daily-Task/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
