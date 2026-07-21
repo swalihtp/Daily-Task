@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/swalihtp/Daily-Task/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2284-sender-with-largest-word-count](https://github.com/swalihtp/Daily-Task/tree/master/2284-sender-with-largest-word-count) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/swalihtp/Daily-Task/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/swalihtp/Daily-Task/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2404-most-frequent-even-element](https://github.com/swalihtp/Daily-Task/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/swalihtp/Daily-Task/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/swalihtp/Daily-Task/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/swalihtp/Daily-Task/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2390-removing-stars-from-a-string) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/swalihtp/Daily-Task/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2506-count-pairs-of-similar-strings](https://github.com/swalihtp/Daily-Task/tree/master/2506-count-pairs-of-similar-strings) |
 | [2512-reward-top-k-students](https://github.com/swalihtp/Daily-Task/tree/master/2512-reward-top-k-students) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/swalihtp/Daily-Task/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/swalihtp/Daily-Task/tree/master/1991-find-the-middle-index-in-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/swalihtp/Daily-Task/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/swalihtp/Daily-Task/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/swalihtp/Daily-Task/tree/master/3432-count-partitions-with-even-sum-difference) |
