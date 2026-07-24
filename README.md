@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/swalihtp/Daily-Task/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/swalihtp/Daily-Task/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/swalihtp/Daily-Task/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/swalihtp/Daily-Task/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swalihtp/Daily-Task/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/swalihtp/Daily-Task/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
 ## Brainteaser
 |  |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/swalihtp/Daily-Task/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/swalihtp/Daily-Task/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/swalihtp/Daily-Task/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
