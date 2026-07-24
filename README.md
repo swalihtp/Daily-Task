@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/swalihtp/Daily-Task/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swalihtp/Daily-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/swalihtp/Daily-Task/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/swalihtp/Daily-Task/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swalihtp/Daily-Task/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/swalihtp/Daily-Task/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/swalihtp/Daily-Task/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/swalihtp/Daily-Task/tree/master/0622-design-circular-queue) |
 ## Brainteaser
 |  |
 | ------- |
@@ -811,11 +813,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/swalihtp/Daily-Task/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/swalihtp/Daily-Task/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/swalihtp/Daily-Task/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/swalihtp/Daily-Task/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/swalihtp/Daily-Task/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/swalihtp/Daily-Task/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/swalihtp/Daily-Task/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
