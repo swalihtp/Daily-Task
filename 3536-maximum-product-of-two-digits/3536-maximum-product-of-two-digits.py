@@ -1,19 +1,19 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        
-        nums = []
+        large = 0
+        second_large = 0
 
-        while n > 9:
-            temp = n%10
-            nums.append(temp)
+        while n > 0:
+            digit = n%10
             n = n // 10
             
-        nums.append(n)
-        
-        products = []
-        length = len(nums)
-        for i in range(length):
-            for j in range(i+1,length):
-                products.append(nums[i]*nums[j])
-        
-        return max(products)
+            if digit >= large:
+                second_large = large
+                large = digit
+            elif digit > second_large:
+                second_large = digit
+
+
+
+        return large*second_large
+
