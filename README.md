@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/swalihtp/Daily-Task/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/swalihtp/Daily-Task/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/swalihtp/Daily-Task/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3620-network-recovery-pathways](https://github.com/swalihtp/Daily-Task/tree/master/3620-network-recovery-pathways) |
 | [3701-compute-alternating-sum](https://github.com/swalihtp/Daily-Task/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/swalihtp/Daily-Task/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/swalihtp/Daily-Task/tree/master/3731-find-missing-elements) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/swalihtp/Daily-Task/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/swalihtp/Daily-Task/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/swalihtp/Daily-Task/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3620-network-recovery-pathways](https://github.com/swalihtp/Daily-Task/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/swalihtp/Daily-Task/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/swalihtp/Daily-Task/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/swalihtp/Daily-Task/tree/master/1025-divisor-game) |
+| [3620-network-recovery-pathways](https://github.com/swalihtp/Daily-Task/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/swalihtp/Daily-Task/tree/master/2512-reward-top-k-students) |
 | [2974-minimum-number-game](https://github.com/swalihtp/Daily-Task/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/swalihtp/Daily-Task/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3620-network-recovery-pathways](https://github.com/swalihtp/Daily-Task/tree/master/3620-network-recovery-pathways) |
 ## Queue
 |  |
 | ------- |
@@ -824,4 +828,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/swalihtp/Daily-Task/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/swalihtp/Daily-Task/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/swalihtp/Daily-Task/tree/master/0707-design-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/swalihtp/Daily-Task/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/swalihtp/Daily-Task/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/swalihtp/Daily-Task/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
