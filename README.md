@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/swalihtp/Daily-Task/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/swalihtp/Daily-Task/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/swalihtp/Daily-Task/tree/master/1773-count-items-matching-a-rule) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swalihtp/Daily-Task/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/swalihtp/Daily-Task/tree/master/1929-concatenation-of-array) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/swalihtp/Daily-Task/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/swalihtp/Daily-Task/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/swalihtp/Daily-Task/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/swalihtp/Daily-Task/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swalihtp/Daily-Task/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/swalihtp/Daily-Task/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/swalihtp/Daily-Task/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
