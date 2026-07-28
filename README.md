@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/swalihtp/Daily-Task/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/swalihtp/Daily-Task/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/swalihtp/Daily-Task/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/swalihtp/Daily-Task/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/swalihtp/Daily-Task/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/swalihtp/Daily-Task/tree/master/0682-baseball-game) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/swalihtp/Daily-Task/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/swalihtp/Daily-Task/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/swalihtp/Daily-Task/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/swalihtp/Daily-Task/tree/master/0622-design-circular-queue) |
