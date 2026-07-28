@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/swalihtp/Daily-Task/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/swalihtp/Daily-Task/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/swalihtp/Daily-Task/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/swalihtp/Daily-Task/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/swalihtp/Daily-Task/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/swalihtp/Daily-Task/tree/master/0303-range-sum-query-immutable) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/swalihtp/Daily-Task/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/swalihtp/Daily-Task/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/swalihtp/Daily-Task/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/swalihtp/Daily-Task/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/swalihtp/Daily-Task/tree/master/0506-relative-ranks) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/swalihtp/Daily-Task/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/swalihtp/Daily-Task/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/swalihtp/Daily-Task/tree/master/0622-design-circular-queue) |
 ## Brainteaser
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swalihtp/Daily-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/swalihtp/Daily-Task/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/swalihtp/Daily-Task/tree/master/0239-sliding-window-maximum) |
 ## Trie
 |  |
 | ------- |
@@ -842,4 +846,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/swalihtp/Daily-Task/tree/master/3620-network-recovery-pathways) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/swalihtp/Daily-Task/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
