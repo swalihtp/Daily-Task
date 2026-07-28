@@ -6,7 +6,7 @@ class Solution:
         ans = []
 
         for i in range(len(nums)):
-            while dq and dq[0] <= i - k:
+            if dq and dq[0] <= i-k:
                 dq.popleft()
             
             while dq and nums[dq[-1]] < nums[i]:
