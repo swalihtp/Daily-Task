@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/swalihtp/Daily-Task/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/swalihtp/Daily-Task/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2485-find-the-pivot-integer](https://github.com/swalihtp/Daily-Task/tree/master/2485-find-the-pivot-integer) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/swalihtp/Daily-Task/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2525-categorize-box-according-to-criteria](https://github.com/swalihtp/Daily-Task/tree/master/2525-categorize-box-according-to-criteria) |
 | [2578-split-with-minimum-sum](https://github.com/swalihtp/Daily-Task/tree/master/2578-split-with-minimum-sum) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swalihtp/Daily-Task/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/swalihtp/Daily-Task/tree/master/1991-find-the-middle-index-in-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/swalihtp/Daily-Task/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2485-find-the-pivot-integer](https://github.com/swalihtp/Daily-Task/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/swalihtp/Daily-Task/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/swalihtp/Daily-Task/tree/master/3432-count-partitions-with-even-sum-difference) |
