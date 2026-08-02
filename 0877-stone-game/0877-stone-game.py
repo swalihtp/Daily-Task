@@ -1,12 +1,3 @@
 class Solution:
     def stoneGame(self, piles: List[int]) -> bool:
-        return True
-
-
-
-
-                
-            
-            
-
-        
+        return len(piles)%2 == 0
