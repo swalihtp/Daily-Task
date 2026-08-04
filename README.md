@@ -858,4 +858,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/swalihtp/Daily-Task/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/swalihtp/Daily-Task/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
