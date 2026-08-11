@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/swalihtp/Daily-Task/tree/master/3778-transform-array-by-parity) |
 | [3838-weighted-word-mapping](https://github.com/swalihtp/Daily-Task/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swalihtp/Daily-Task/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/swalihtp/Daily-Task/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/swalihtp/Daily-Task/tree/master/3925-concatenate-array-with-reverse) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/swalihtp/Daily-Task/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Sorting
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/swalihtp/Daily-Task/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swalihtp/Daily-Task/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/swalihtp/Daily-Task/tree/master/3894-traffic-signal-color) |
+| [3895-count-digit-appearances](https://github.com/swalihtp/Daily-Task/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/swalihtp/Daily-Task/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
