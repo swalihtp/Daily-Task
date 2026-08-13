@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/swalihtp/Daily-Task/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/swalihtp/Daily-Task/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/swalihtp/Daily-Task/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/swalihtp/Daily-Task/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/swalihtp/Daily-Task/tree/master/3227-vowels-game-in-a-string) |
 | [3280-convert-date-to-binary](https://github.com/swalihtp/Daily-Task/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/swalihtp/Daily-Task/tree/master/3340-check-balanced-string) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swalihtp/Daily-Task/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/swalihtp/Daily-Task/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/swalihtp/Daily-Task/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/swalihtp/Daily-Task/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/swalihtp/Daily-Task/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/swalihtp/Daily-Task/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/swalihtp/Daily-Task/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/swalihtp/Daily-Task/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/swalihtp/Daily-Task/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/swalihtp/Daily-Task/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/swalihtp/Daily-Task/tree/master/3726-remove-zeros-in-decimal-representation) |
