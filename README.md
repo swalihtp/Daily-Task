@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/swalihtp/Daily-Task/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/swalihtp/Daily-Task/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/swalihtp/Daily-Task/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1652-defuse-the-bomb](https://github.com/swalihtp/Daily-Task/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/swalihtp/Daily-Task/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/swalihtp/Daily-Task/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/swalihtp/Daily-Task/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/swalihtp/Daily-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/swalihtp/Daily-Task/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/swalihtp/Daily-Task/tree/master/0239-sliding-window-maximum) |
+| [1652-defuse-the-bomb](https://github.com/swalihtp/Daily-Task/tree/master/1652-defuse-the-bomb) |
 ## Trie
 |  |
 | ------- |
